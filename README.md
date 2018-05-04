@@ -3,7 +3,7 @@
 
 A.代码来源及参考：
 
-1.lizyyy ---【RxSwift 实践系列 2/3】thinking in Rx- Create和Drive https://juejin.im/post/5a9cff906fb9a028d14097f8
+1. https://juejin.im/post/5a9cff906fb9a028d14097f8 -【RxSwift 实践系列 2/3】thinking in Rx- Create和Drive(lizyyy) 
 
 
 B.另外发现的工具类三方:
